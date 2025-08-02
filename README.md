@@ -12,7 +12,9 @@ The notebook contains the basic python programming tasks like
 
 ✅ Perform operation using conditional and comparision operators.
 
-✅ Differnet type of data structure Lists, Tuple, set and dictionary and perform some basic functions.
+✅ Different type of data structure Lists, Tuple, set and dictionary and perform some basic functions.
+
+✅ Different tasks using logical and conditional operators.
 
 ✅ Some basic quiz about the basics of python programming.
 
