@@ -20,6 +20,8 @@ The notebook contains the basic python programming tasks like
 
 ✅ Basic understanding of modules and packages.
 
+✅ Basic understanding of File handling.
+
 ✅ Some basic quiz about the basics of python programming.
 
 This notebook is useful for beginners and brushing up your python for the experienced.
