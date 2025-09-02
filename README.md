@@ -22,6 +22,8 @@ The notebook contains the basic python programming tasks like
 
 ✅ Basic understanding of File handling.
 
+✅ Basics of Exception handling.
+
 ✅ Some basic quiz about the basics of python programming.
 
 This notebook is useful for beginners and brushing up your python for the experienced.
